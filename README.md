@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mathieu, a full-stack developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Flutter and Typescript  
+- 🌱 I’m currently learning 3D web with Threejs
   
 
 - 🔥 Passionate developer  
